@@ -16,7 +16,7 @@
             "email": "carlos.salazar@icomsys.com.mx"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "1.0.1",
     "autoload": {
         "psr-4": {
             "Esalazarv\\Resource\\": "src/"
