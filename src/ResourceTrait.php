@@ -5,6 +5,7 @@ namespace Esalazarv\Resource;
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Response;
 use Carbon\Carbon;
+use Illuminate\Support\Facades\Cache;
 
 trait ResourceTrait
 {
