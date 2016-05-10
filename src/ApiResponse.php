@@ -2,7 +2,7 @@
 
 namespace Esalazarv\Resource;
 
-class ApiResponse implements IteratorAggregate
+class ApiResponse implements \IteratorAggregate
 {
     public function __construct($attributes = [])
     {
