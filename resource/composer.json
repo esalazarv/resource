@@ -1,0 +1,25 @@
+{
+    "name": "esalazarv/resource",
+    "description": "Package for consume API resources",
+    "type": "library",
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.2.*",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Cifuentes",
+            "email": "eduardo.cifuentes@icomsys.com.mx"
+            "name": "Carlos Salazar",
+            "email": "carlos.salazar@icomsys.com.mx"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Icom\\Resource\\": "src/"
+        }
+    }
+}
