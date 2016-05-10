@@ -1,6 +1,6 @@
 <?php
 
-namespace Icom\Resource;
+namespace Esalazarv\Resource;
 
 class ApiResponse implements IteratorAggregate
 {

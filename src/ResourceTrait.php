@@ -1,6 +1,6 @@
 <?php
 
-namespace Icom\Resource;
+namespace Esalazarv\Resource;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Response;
